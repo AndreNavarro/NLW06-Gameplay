@@ -70,3 +70,6 @@ yarn add axios
 
 
 ***** Aula 5 ****
+
+
+// https://auth.expo.io/@anonymous/gameplay-339d2767-a9c9-40ff-8b39-127d3bfaf3b4
